@@ -1,0 +1,11 @@
+ul{
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  body{
+    color: blue;
+    background-image: url(https://images.macrumors.com/t/vMbr05RQ60tz7V_zS5UEO9SbGR0=/1600x900/smart/article-new/2018/05/apple-music-note.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+  }
